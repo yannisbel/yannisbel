@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=yannisbel.yannisbel" alt=""></p>
+
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yannisbel&theme=dark&background=000000)](https://git.io/streak-stats)
 
