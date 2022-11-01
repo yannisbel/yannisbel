@@ -1,8 +1,10 @@
 ### Hi there 👋
-<p align="center">
+
 [![Linkedin: yannis-belkhiter](https://img.shields.io/badge/-Yannis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yannis-belkhiter/?locale=en_US)](https://www.linkedin.com/in/yannis-belkhiter/?locale=en_US)
-<img src="https://visitor-badge.glitch.me/badge?page_id=yannisbel.yannisbel" alt="">
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Brave&logoColor=white&link=https://yannisbel.github.io/yannis.belkhiter.website/)](https://yannisbel.github.io/yannis.belkhiter.website/)</p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=yannisbel.yannisbel)
+
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Brave&logoColor=white&link=https://yannisbel.github.io/yannis.belkhiter.website/)](https://yannisbel.github.io/yannis.belkhiter.website/)
 
 
 ### 🔥 &nbsp; My Stats :
