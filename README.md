@@ -1,6 +1,6 @@
-### Hi there, it's Yannis 👋
+## Hi there, it's Yannis 👋
 
-## Welcome to my GitHub Launch Page!
+### Welcome to my GitHub Launch Page!
 
 [![Linkedin: yannis-belkhiter](https://img.shields.io/badge/-Yannis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yannis-belkhiter/?locale=en_US)](https://www.linkedin.com/in/yannis-belkhiter/?locale=en_US)
 ![](https://visitor-badge.glitch.me/badge?page_id=yannisbel.yannisbel)
@@ -21,6 +21,7 @@ I am a Master student in Computer Science <img src="https://media.giphy.com/medi
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -33,7 +34,6 @@ I am a Master student in Computer Science <img src="https://media.giphy.com/medi
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspPI" alt="RaspPI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </p>
 
 ---
