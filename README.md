@@ -10,7 +10,7 @@
 
 I am a Master student in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 
-- 🔭 I'm following the Computer Science & AI Master of IMT Mines Alès.
+- 🔭 I'm following the MSc. Computing (AI & ML) from Imperial College London.
 - 🌱 Exploring some new technical solution for problem optimization.
 - ⚡ In my free time I solve problems and lauch new projects.
 - 📫 How to reach me: belkhiter@yahoo.com
