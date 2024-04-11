@@ -13,7 +13,7 @@ I am a Master student in Computer Science <img src="https://media.giphy.com/medi
 - 🔭 I'm following the MSc. Computing (AI & ML) from Imperial College London.
 - 🌱 Exploring some new technical solution for problem optimization.
 - ⚡ In my free time I solve problems and lauch new projects.
-- 📫 How to reach me: belkhiter@yahoo.com
+- 📫 How to reach me: yannis.belkhiter23@ic.ac.uk
 
 ---
 
